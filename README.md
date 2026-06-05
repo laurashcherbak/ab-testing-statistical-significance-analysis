@@ -61,10 +61,10 @@ The Tableau dashboard includes:
 ## 📂 Links
 
 - 📓 Python Analysis (Google Colab):  
-  https://colab.research.google.com/
+  [https://colab.research.google.com/](https://colab.research.google.com/drive/1tCrh_E-NiOG3XVqhEX3G5GV4jYoWn-0t?usp=sharing)
 
 - 📊 Tableau Dashboard (Public):  
-  https://public.tableau.com/
+  [https://public.tableau.com/](https://public.tableau.com/app/profile/laura.shcherbak/viz/ABTestingStatisticalSignificanceDashboard/ABTestingStatisticalSignificanceDashboard?publish=yes)
 
 ---
 
